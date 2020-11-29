@@ -1,0 +1,17 @@
+{
+  "name": "DIGIList",
+  "logoURI": "https://digitalverse.net/img/digi.svg",
+  "keywords": ["mmo", "rpg", "gaming"],
+  "timestamp": "2020-11-23T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe03b4386b75e121e04d580d6b8376ceee0615ca8",
+      "name": "Digiverse",
+      "symbol": "DIGI",
+      "decimals": 18,
+      "logoURI":"https://digitalverse.net/img/digi.svg"
+    }
+  ],
+  "version": { "major": 0, "minor": 1, "patch": 0 }
+}
